@@ -1,0 +1,2 @@
+# telcord
+repository of blueprints
